@@ -1,0 +1,23 @@
+direction:n. 方向
+selfCollied :n. 自己, 自我, 本性, 本质, 私心
+strategies n. 策略
+prototype: 原型对象
+- 构造函数通过原型分配的函数是所有对象所共享的,这样就解决了内存浪费问题
+- JavaScript 规定，每一个构造函数都有一个prototype属性，指向另一个对象，注意这个prototype就是一个对象，这个对象的所有属性和方法，都会被构造函数所拥有
+- 我们可以把那些不变的方法，直接定义在prototype 对象上，这样所有对象的实例就可以共享这些方法
+
+this.strategies.die.call(this);
+call()方法调用一个对象，简单理解为调用函数的方式，但是它可以改变函数的this指向
+//形成链表关系
+	snakeHead.last = null;
+	snakeHead.next = snakeBody1;
+
+	snakeBody1.last = snakeHead;
+	snakeBody1.next = snakeBody2;
+
+	snakeBody2.last = snakeBody1;
+	snakeBody2.next = null;
+
+链表是多个元素组成的列表
+元素存储不连续，用next指针连接到一起
+JS中没有链表，但是可以用Object模拟链表
