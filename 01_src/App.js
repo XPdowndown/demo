@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Hello from './components/Hello';
+import Welcome from './components/Welcome'
 
 function App() {
   return (
@@ -15,11 +17,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React!!!
         </a>
       </header>
+      <Hello />
+      <Welcome />
     </div>
   );
 }
 
 export default App;
+
+
