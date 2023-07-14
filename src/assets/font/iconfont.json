@@ -1,0 +1,107 @@
+{
+  "id": "2842346",
+  "name": "yougou",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9526764",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10227188",
+      "name": "待评价",
+      "font_class": "daipingjia",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11542836",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "17967604",
+      "name": "待付款",
+      "font_class": "daifukuan",
+      "unicode": "ee8d",
+      "unicode_decimal": 61069
+    },
+    {
+      "icon_id": "24732623",
+      "name": "售后",
+      "font_class": "shouhou",
+      "unicode": "ecb4",
+      "unicode_decimal": 60596
+    },
+    {
+      "icon_id": "11372777",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "77828",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1727541",
+      "name": "308上一页、后退、返回",
+      "font_class": "shangyiyehoutuifanhui",
+      "unicode": "e8ef",
+      "unicode_decimal": 59631
+    },
+    {
+      "icon_id": "1305",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1307",
+      "name": "应用中心",
+      "font_class": "yingyongzhongxin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "393406",
+      "name": "我",
+      "font_class": "my",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2170932",
+      "name": "首页-首页",
+      "font_class": "shouye-shouye",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2380628",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
